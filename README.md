@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saninkiliyamannil
-- 👀 I’m interested in Python, HTML, CSS, JS
+- 👀 I’m interested in HTML, CSS, JS, React, Three.js
 - 🌱 I’m currently working on React JS
 - 📫 You can reach me by mailing to me on saninkiliyamannil@gmail.com
 
